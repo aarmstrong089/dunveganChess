@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2295768-341c-4c3d-8dcc-ccc52e6f0a36" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setUp.js" afterPath="$PROJECT_DIR$/setUp.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blackbishop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blackking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blackpawn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blackqueen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blackrook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/darkknight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setUp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/whitebishop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/whiteking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/whiteknight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/whitepawn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/whitequeen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/whiterook.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="73" lean-forward="true" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -39,17 +48,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setUp.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/setUp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -140,12 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506377715860</updated>
       <workItem from="1506377719548" duration="127000" />
-      <workItem from="1506377999007" duration="295000" />
+      <workItem from="1506377999007" duration="1207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="422000" />
+    <option name="totallyTimeSpent" value="1334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -191,10 +190,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/setUp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="73" lean-forward="true" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -202,15 +201,15 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setUp.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
